@@ -1,1 +1,1 @@
-Based on participating in Gocasts course (gocasts.ir) , I'v decided to share exercise with you. I hope this can be useful for other people to.
+I took the Gocasts course (gocasts.ir) and decided to share the course exercises with you. I hope they will be useful to others as well.
